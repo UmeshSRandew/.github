@@ -26,7 +26,7 @@
 ### 📫 How to reach me:
 - 📧 Email: [samanrandew3@gmail.com](mailto:samanrandew3@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/umeshrandew](https://www.linkedin.com/in/umesh-saman-randew-616625238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 Portfolio: *Add here if available*
+- 🌐 Portfolio: [UmeshSRandew](https://umeshsrandew.github.io/UmeshSrandew-Portfolio/)
 - 💼 Freelance: Open for freelance opportunities.
 
 ---
